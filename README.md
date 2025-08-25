@@ -66,7 +66,7 @@ week2-beginner-assignment/
 
 ## 📝 Assignment Tasks
 
-### Task 1: Modern Variables (15 minutes)
+### Task 1: Modern Variables
 **File: `src/01-variables.js`**
 
 Learn the difference between `const`, `let`, and when to use each:
@@ -74,7 +74,7 @@ Learn the difference between `const`, `let`, and when to use each:
 - Use `let` for variables that change
 - Understand block scoping
 
-### Task 2: Arrow Functions (15 minutes)
+### Task 2: Arrow Functions
 **File: `src/02-functions.js`**
 
 Practice modern function syntax:
@@ -82,7 +82,7 @@ Practice modern function syntax:
 - Work with function parameters and default values
 - Understand when to use arrow functions vs regular functions
 
-### Task 3: Template Literals (15 minutes)
+### Task 3: Template Literals
 **File: `src/03-templates.js`**
 
 Build dynamic strings using template literals:
@@ -90,7 +90,7 @@ Build dynamic strings using template literals:
 - Create multi-line strings
 - Format user data for display
 
-### Task 4: Destructuring (20 minutes)
+### Task 4: Destructuring
 **File: `src/04-destructuring.js`**
 
 Extract values from objects and arrays:
@@ -98,7 +98,7 @@ Extract values from objects and arrays:
 - Work with nested objects
 - Use array destructuring for function returns
 
-### Task 5: Basic Promises (20 minutes)
+### Task 5: Basic Promises
 **File: `src/05-promises.js`**
 
 Handle asynchronous operations:
@@ -106,7 +106,7 @@ Handle asynchronous operations:
 - Handle errors with `.catch()`
 - Understand basic async patterns
 
-### Task 6: Simple Modules (10 minutes)
+### Task 6: Simple Modules
 **File: `src/06-modules.js`**
 
 Export functions for use in other files:
@@ -269,7 +269,7 @@ You'll know you've succeeded when:
 
 The autograder will run when you push to GitHub, and you'll see the results in the "Actions" tab of your repository.
 
-## ⏱️ Time Management
+## ⏱️ Estimated Time Management
 
 - **Variables & Functions**: 30 minutes
 - **Templates & Destructuring**: 35 minutes  
@@ -282,9 +282,8 @@ Take breaks if needed! Learning is more effective when you're focused.
 
 If you get stuck, refer to:
 - [MDN JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
-- [Week 2 Lecture Notes](link-to-lecture)
-- Course discussion forum
-- Instructor office hours
+- Week 2 Lecture Notes
+- Email
 
 ## 🎉 Final Notes
 
